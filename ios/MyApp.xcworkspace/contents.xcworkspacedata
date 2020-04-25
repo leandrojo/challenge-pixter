@@ -2,9 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:MyApp.xcodeproj">
+      location = "group:/Users/leandro/workspaces/challenge-pixter/ios/MyApp.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MyApp.xcodeproj">
    </FileRef>
 </Workspace>

@@ -6,6 +6,7 @@
  */
 
 module.exports = {
+  assets: ['./assets/fonts/Roboto'],
   transformer: {
     getTransformOptions: async () => ({
       transform: {
